@@ -1,0 +1,154 @@
+body{
+
+background-color:#f1f2f6;
+
+}
+
+
+
+
+
+div#beg{
+    text-align: center;
+}
+h1{
+    font-size: 60px;
+    font-weight: bold;
+    color: #000;
+    
+}
+div.lang{
+    
+    height: 300px;
+    width: 80%;
+    background-color:#ffffff;
+   
+    
+      border: 20px,solid;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    margin-left: 150px;
+    margin-right:100%;  
+
+
+  
+
+}
+
+button{
+    padding: 10px;
+    text-align:center;
+    margin-left: 60px;
+    font-size: 15px;
+}
+#c{
+    height: 40px;
+    width: 5%;
+    background-color: #48dbfb;
+}
+#c1{
+    height: 40px;
+    width: 5%; 
+    background-color: #f5f6fa;
+  
+}
+#java{
+    height: 40px;
+    width: 8%;
+    background-color:#48dbfb;
+     
+}
+
+#c2{
+    height: 40px;
+    width: 5%; 
+    background-color: #f5f6fa;
+   
+    
+    
+}
+#hask{
+    height: 40px;
+    width: 8%; 
+    background-color: #f5f6fa;
+  
+}
+#python{
+    height: 40px;
+    width: 8%;
+    background-color:#48dbfb;
+
+}
+#script{
+    height: 40px;
+    width: 8%; 
+    background-color: #f5f6fa;
+
+}
+
+#rust{
+    height: 40px;
+    width: 5%; 
+    background-color: #f5f6fa;
+}
+#lisp{
+    height: 40px;
+    width: 6%; 
+    background-color: #f5f6fa;
+    
+}
+
+#object{
+    height: 40px;
+    width: 10%; 
+    background-color: #f5f6fa;
+    
+
+}
+
+#perl{
+    height: 40px;
+    width: 6%;
+    background-color:#48dbfb;
+}
+#scala{
+    height: 40px;
+    width: 6%; 
+    background-color: #f5f6fa;
+
+}
+#pascal,#ruby,#cloj,#r{
+    height: 40px;
+    width: 6%; 
+    background-color: #f5f6fa;
+}
+
+
+
+
+
+
+.go{
+border-radius: 30px;
+    border: 2px solid #EFF0F4;
+    background-color: transparent;
+    color: #b8b9bc;
+    padding: 10px 30px 10px 30px;
+    font-weight: bold;
+    font-size: 14px;
+    margin-left: 350px;
+}
+
+.pro{
+
+         border-radius: 30px; 
+        border: 2px solid #EFF0F4;
+        background-color: transparent;
+         color: #b8b9bc; 
+        padding: 10px 30px 10px 30px;
+        font-weight:bold;
+        font-size: 14px;
+        background-color: #AED581;
+    color: #fff;
+
+}
